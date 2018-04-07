@@ -1,0 +1,27 @@
+body {
+    background-color: #000;
+}
+
+a {
+    color: #838383;
+}
+
+#hero {
+    background-color: rgba(39, 39, 39, 0.185);
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: calc(50% - 150px);
+    top: calc(50% - 180px);
+    border: #808080;
+    border-radius: 15px;
+}
+
+.picture {
+    border-radius: 15px;
+}
+
+.social-badges {
+    margin: 0 auto;
+    text-align: center;
+}

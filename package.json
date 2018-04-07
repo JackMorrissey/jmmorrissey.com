@@ -1,0 +1,16 @@
+{
+  "name": "jmmorrissey.com",
+  "version": "1.0.0",
+  "description": "Jack Homepage",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "simple-autoreload-server": "^0.2.7"
+  },
+  "scripts": {
+    "start": "autoreload-server -d ./ -p 8080"
+  },
+  "author": "Jack Morrissey <jack@tryce.tech>",
+  "license": "MIT",
+  "private": true
+}
