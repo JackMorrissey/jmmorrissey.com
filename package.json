@@ -8,9 +8,11 @@
     "simple-autoreload-server": "^0.2.7"
   },
   "scripts": {
-    "start": "autoreload-server -d ./ -p 8080"
+    "start": "autoreload-server -d ./ -p 8080",
+    "blog-dev": "cd words && hugo server -D -d dev",
+    "blog-dist": "cd words && hugo"
   },
-  "author": "Jack Morrissey <jack@tryce.tech>",
+  "author": "Jack Morrissey <code@jmmorrissey.com>",
   "license": "MIT",
   "private": true
 }

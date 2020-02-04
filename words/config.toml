@@ -1,0 +1,9 @@
+baseURL = "https://jmmorrissey.com/words/"
+languageCode = "en-us"
+title = "Words"
+theme = "m10c"
+
+[params]
+author = "Jack Morrissey"
+description = "Adventures in Software Engineering"
+avatar = "https://jmmorrissey.com/assets/jack.jpg"

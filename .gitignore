@@ -1,2 +1,6 @@
 node_modules
 npm-debug.log
+words/dev
+words/public
+words/resources
+*.draft.md
